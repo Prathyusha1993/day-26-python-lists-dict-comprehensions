@@ -25,4 +25,3 @@ for (index, row) in student_data_frame.iterrows():
     # print(row.scores)
     if row.students == 'Pinky':
         print(row.scores)
-
